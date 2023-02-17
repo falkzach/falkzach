@@ -1,6 +1,4 @@
-![I stand with Ukraine](https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png)
-
-
+<!-- ![I stand with Ukraine](https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png) -->
 <!-- ![I Voted!](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif) -->
 <!--
 **falkzach/falkzach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
